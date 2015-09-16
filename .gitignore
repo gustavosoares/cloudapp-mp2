@@ -57,3 +57,5 @@ docs/_build/
 target/
 
 *.idea/
+internal_use/tmp/
+internal_use/user_setting.sh
